@@ -17,7 +17,7 @@ Um jogo de damas feito em linguagem c baseado na versão brasileira de 64 casas 
 
 ### Sobre
 
-Jogo de damas ou simplesmente damas é um grupo de jogos de tabuleiro de estratégia para dois jogadores que envolvem movimentos diagonais de peças de jogo uniformes e capturas obrigatórias saltando sobre o oponente peças.
+Jogo de damas ou simplesmente damas é um grupo de jogos de tabuleiro de estratégia para dois jogadores que envolvem movimentos diagonais de peças de jogo uniformes e capturas obrigatórias saltando as peças do oponente.
 
 ### Tabela de Conteudo
 
